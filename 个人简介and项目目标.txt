@@ -1,0 +1,9 @@
+git config --global user.name ''
+git config --global user.email ''
+git config -l
+git init
+do some actions
+git add <file_name> 
+git commit -m 'notes'
+git push -u origin master
+--end--
